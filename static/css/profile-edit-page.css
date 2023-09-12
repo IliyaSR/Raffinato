@@ -1,0 +1,90 @@
+html,
+body {
+  height: 100%;
+}
+
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.form-signin input[type='profilePicture']{
+  margin-bottom: 15px;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin{
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.sr-only{
+  text-align: left;
+}
+
+.header-login{
+  text-align: center;
+  padding-bottom: 25px;
+  padding-top: 10px;
+}
+
+.h3{
+  text-align: center;
+}
+
+.header-login{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sr-only{
+  padding-top: 10px;
+}
+
+.register{
+  padding-top: 75px;
+}
+
+#nav-header{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 25px;
+  padding-right: 80px;
+}
+
+.container{
+  max-width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 0px;
+}
+
+.text-end{
+  padding-right: 48px;
+}
+
+.edit-profile{
+  text-align: center;
+}
+

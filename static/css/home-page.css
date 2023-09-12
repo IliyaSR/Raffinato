@@ -1,0 +1,67 @@
+
+
+#nav-header{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 25px;
+  padding-right: 80px;
+}
+
+.container{
+  max-width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 0px;
+}
+
+.text-end{
+  padding-right: 48px;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.background-image{
+  background-image: url("handsome-man-suit (1).jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 93vh;
+  background-position: center;
+  background-attachment: fixed;
+  width: auto;
+}
+
+.text1{
+  font-size: 64px;
+  font-weight: medium;
+  color: #ffffff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-top: 600px;
+  padding-left: 50px;
+}
+
+.shopping-container{
+  display: block;
+  padding-right: 245px;
+  padding-left: 200px;
+}
+
+.shopping-button{
+  background: none;
+  color: #80ADCE;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-style: solid;
+  border-color: #80ADCE;
+  font-size: 24px;
+}
